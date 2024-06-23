@@ -1,3 +1,3 @@
-# satellite-building-damage
+# sentinel1-building-damage
 
 SAR Sentinel 1
